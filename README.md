@@ -7,6 +7,7 @@ cube + rotor
 
 ###### keypoints:
 
+* alt-az (easy to convert to equatorial, by adding a base)
 * T-slot aluminum frame
 * Worm drive + steppers (direct or belt drive)
 * each axle: 2x ball bearings for worm gear, 2x ball bearings for axle/mast
